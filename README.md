@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @ashlin07
-- 👀 I’m interested in 
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+-Pursuing CSE at PES University
 - 📫 Reach me on furtadoashlin@gmail.com
 
 <!---
